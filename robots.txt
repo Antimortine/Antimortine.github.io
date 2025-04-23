@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://antimortine.github.io/sitemap.xml
